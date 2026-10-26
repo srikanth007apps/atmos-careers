@@ -1,0 +1,39 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "publicJobIndexes": {
+      ".read": true,
+      ".write": false,
+      ".indexOn": [
+        "departmentId",
+        "publishedAt"
+      ]
+    },
+    "jobs": {
+      ".indexOn": [
+        "status",
+        "departmentId",
+        "updatedAt"
+      ]
+    },
+    "applications": {
+      ".indexOn": [
+        "appliedAt",
+        "jobId",
+        "status",
+        "departmentIdSnapshot"
+      ]
+    },
+    "adminUsers": {
+      ".indexOn": [
+        "usernameLower"
+      ]
+    },
+    "departments": {
+      ".indexOn": [
+        "name"
+      ]
+    }
+  }
+}

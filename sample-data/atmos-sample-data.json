@@ -1,0 +1,701 @@
+{
+  "departments": {
+    "dept_sales": {
+      "name": "Sales",
+      "isActive": true,
+      "createdAt": 1789799400000,
+      "updatedAt": 1789799400000
+    },
+    "dept_marketing": {
+      "name": "Marketing",
+      "isActive": true,
+      "createdAt": 1789799400000,
+      "updatedAt": 1789799400000
+    },
+    "dept_digital": {
+      "name": "Digital Marketing",
+      "isActive": true,
+      "createdAt": 1789799400000,
+      "updatedAt": 1789799400000
+    },
+    "dept_presales": {
+      "name": "Presales",
+      "isActive": true,
+      "createdAt": 1789799400000,
+      "updatedAt": 1789799400000
+    },
+    "dept_crm": {
+      "name": "Customer Relationship Management (CRM)",
+      "isActive": true,
+      "createdAt": 1789799400000,
+      "updatedAt": 1789799400000
+    },
+    "dept_construction": {
+      "name": "Construction",
+      "isActive": true,
+      "createdAt": 1789799400000,
+      "updatedAt": 1789799400000
+    },
+    "dept_architecture": {
+      "name": "Architecture",
+      "isActive": true,
+      "createdAt": 1789799400000,
+      "updatedAt": 1789799400000
+    },
+    "dept_engineering": {
+      "name": "Engineering",
+      "isActive": true,
+      "createdAt": 1789799400000,
+      "updatedAt": 1789799400000
+    },
+    "dept_finance": {
+      "name": "Finance and Accounts",
+      "isActive": true,
+      "createdAt": 1789799400000,
+      "updatedAt": 1789799400000
+    },
+    "dept_hr": {
+      "name": "Human Resources",
+      "isActive": true,
+      "createdAt": 1789799400000,
+      "updatedAt": 1789799400000
+    },
+    "dept_legal": {
+      "name": "Legal and Compliance",
+      "isActive": true,
+      "createdAt": 1789799400000,
+      "updatedAt": 1789799400000
+    },
+    "dept_it": {
+      "name": "Information Technology",
+      "isActive": true,
+      "createdAt": 1789799400000,
+      "updatedAt": 1789799400000
+    },
+    "dept_support": {
+      "name": "Customer Support",
+      "isActive": true,
+      "createdAt": 1789799400000,
+      "updatedAt": 1789799400000
+    }
+  },
+  "jobs": {
+    "job_site_engineer": {
+      "title": "Senior Site Engineer",
+      "description": "<h2>About the role</h2><p>Lead site execution for our residential community in Whitefield, making sure every tower is built to plan, on schedule and safely.</p><h3>What you will do</h3><ul><li><p>Plan and supervise daily civil and finishing work with contractors</p></li><li><p>Run quality checks on structure, waterproofing and MEP</p></li><li><p>Report weekly progress to the project head</p></li></ul><h3>What we are looking for</h3><ul><li><p>B.E./B.Tech in Civil Engineering</p></li><li><p>5+ years on residential high-rise projects</p></li><li><p>Working knowledge of AutoCAD and MS Project</p></li></ul><p>We offer a competitive salary, performance incentives and medical cover for your family.</p>",
+      "departmentId": "dept_construction",
+      "employmentType": "full_time",
+      "location": "Whitefield, Bengaluru",
+      "vacancies": 3,
+      "applicationDeadline": 1797359399999,
+      "status": "published",
+      "isActive": true,
+      "createdAt": 1792218600000,
+      "updatedAt": 1792218600000,
+      "createdBy": "admin_default",
+      "publishedAt": 1792218600000,
+      "closedAt": null
+    },
+    "job_sales_manager": {
+      "title": "Sales Manager – Villas",
+      "description": "<h2>About the role</h2><p>Own sales for our premium villa project and guide buyers from first visit to registration.</p><h3>What you will do</h3><ul><li><p>Conduct site visits and walkthroughs for walk-in and channel-partner leads</p></li><li><p>Negotiate and close bookings against monthly targets</p></li><li><p>Work with CRM on agreements and payment follow-ups</p></li></ul><h3>What we are looking for</h3><ul><li><p>4+ years selling residential real estate in Bengaluru</p></li><li><p>Strong spoken English and Kannada or Hindi</p></li><li><p>Comfortable with CRM tools</p></li></ul><p>We offer a competitive salary, performance incentives and medical cover for your family.</p>",
+      "departmentId": "dept_sales",
+      "employmentType": "full_time",
+      "location": "Sarjapur Road, Bengaluru",
+      "vacancies": 2,
+      "applicationDeadline": null,
+      "status": "published",
+      "isActive": true,
+      "createdAt": 1791959400000,
+      "updatedAt": 1791959400000,
+      "createdBy": "admin_default",
+      "publishedAt": 1791959400000,
+      "closedAt": null
+    },
+    "job_presales": {
+      "title": "Presales Executive",
+      "description": "<h2>About the role</h2><p>Be the first voice our prospective buyers hear: qualify leads and book site visits for the sales team.</p><h3>What you will do</h3><ul><li><p>Call and follow up on leads from digital campaigns and portals</p></li><li><p>Qualify budget, location and timelines</p></li><li><p>Schedule and confirm site visits</p></li></ul><h3>What we are looking for</h3><ul><li><p>1–3 years in presales or inside sales</p></li><li><p>Clear, friendly phone manner</p></li><li><p>Graduate in any discipline</p></li></ul><p>We offer a competitive salary, performance incentives and medical cover for your family.</p>",
+      "departmentId": "dept_presales",
+      "employmentType": "full_time",
+      "location": "Bengaluru",
+      "vacancies": 4,
+      "applicationDeadline": 1796063399999,
+      "status": "published",
+      "isActive": true,
+      "createdAt": 1791700200000,
+      "updatedAt": 1791700200000,
+      "createdBy": "admin_default",
+      "publishedAt": 1791700200000,
+      "closedAt": null
+    },
+    "job_landscape": {
+      "title": "Landscape Architect",
+      "description": "<h2>About the role</h2><p>Design green spaces that keep the native trees at the heart of each community.</p><h3>What you will do</h3><ul><li><p>Prepare landscape concepts and working drawings</p></li><li><p>Select native plant species with the horticulture team</p></li><li><p>Coordinate with civil teams during execution</p></li></ul><h3>What we are looking for</h3><ul><li><p>B.Arch / M.Arch with landscape specialisation</p></li><li><p>Portfolio of residential or township projects</p></li></ul><p>We offer a competitive salary, performance incentives and medical cover for your family.</p>",
+      "departmentId": "dept_architecture",
+      "employmentType": "contract",
+      "location": "Devanahalli",
+      "vacancies": 1,
+      "applicationDeadline": null,
+      "status": "published",
+      "isActive": true,
+      "createdAt": 1791354600000,
+      "updatedAt": 1791354600000,
+      "createdBy": "admin_default",
+      "publishedAt": 1791354600000,
+      "closedAt": null
+    },
+    "job_perf_intern": {
+      "title": "Performance Marketing Intern",
+      "description": "<h2>About the role</h2><p>Learn performance marketing on live real estate campaigns across Google and Meta.</p><h3>What you will do</h3><ul><li><p>Help set up and monitor lead-generation campaigns</p></li><li><p>Prepare weekly reports on cost per lead</p></li><li><p>Test ad creatives with the design team</p></li></ul><h3>What we are looking for</h3><ul><li><p>Final-year student or recent graduate</p></li><li><p>Interest in digital marketing and analytics</p></li></ul><p>We offer a competitive salary, performance incentives and medical cover for your family.</p>",
+      "departmentId": "dept_digital",
+      "employmentType": "internship",
+      "location": "Bengaluru (Hybrid)",
+      "vacancies": 2,
+      "applicationDeadline": 1794335399999,
+      "status": "published",
+      "isActive": true,
+      "createdAt": 1792305000000,
+      "updatedAt": 1792305000000,
+      "createdBy": "admin_default",
+      "publishedAt": 1792305000000,
+      "closedAt": null
+    },
+    "job_crm_exec": {
+      "title": "CRM Executive",
+      "description": "<h2>About the role</h2><p>Look after customers from booking to handover.</p><h3>What you will do</h3><ul><li><p>Manage payment schedules and demand letters</p></li><li><p>Coordinate documentation and registration</p></li></ul><h3>What we are looking for</h3><ul><li><p>2+ years in real estate CRM</p></li></ul><p>We offer a competitive salary, performance incentives and medical cover for your family.</p>",
+      "departmentId": "dept_crm",
+      "employmentType": "full_time",
+      "location": "Bengaluru",
+      "vacancies": 1,
+      "applicationDeadline": null,
+      "status": "draft",
+      "isActive": true,
+      "createdAt": 1792391400000,
+      "updatedAt": 1792391400000,
+      "createdBy": "admin_default",
+      "publishedAt": null,
+      "closedAt": null
+    },
+    "job_accounts": {
+      "title": "Accounts Executive",
+      "description": "<h2>About the role</h2><p>Handle day-to-day accounting for project accounts.</p><h3>What you will do</h3><ul><li><p>Maintain ledgers and vendor payments</p></li><li><p>Support GST and TDS filings</p></li></ul><h3>What we are looking for</h3><ul><li><p>B.Com / M.Com</p></li><li><p>Tally experience</p></li></ul><p>We offer a competitive salary, performance incentives and medical cover for your family.</p>",
+      "departmentId": "dept_finance",
+      "employmentType": "full_time",
+      "location": "Bengaluru",
+      "vacancies": 1,
+      "applicationDeadline": null,
+      "status": "closed",
+      "isActive": false,
+      "createdAt": 1788935400000,
+      "updatedAt": 1788935400000,
+      "createdBy": "admin_default",
+      "publishedAt": 1788935400000,
+      "closedAt": 1792218600000
+    }
+  },
+  "publicJobIndexes": {
+    "job_site_engineer": {
+      "id": "job_site_engineer",
+      "title": "Senior Site Engineer",
+      "description": "<h2>About the role</h2><p>Lead site execution for our residential community in Whitefield, making sure every tower is built to plan, on schedule and safely.</p><h3>What you will do</h3><ul><li><p>Plan and supervise daily civil and finishing work with contractors</p></li><li><p>Run quality checks on structure, waterproofing and MEP</p></li><li><p>Report weekly progress to the project head</p></li></ul><h3>What we are looking for</h3><ul><li><p>B.E./B.Tech in Civil Engineering</p></li><li><p>5+ years on residential high-rise projects</p></li><li><p>Working knowledge of AutoCAD and MS Project</p></li></ul><p>We offer a competitive salary, performance incentives and medical cover for your family.</p>",
+      "departmentId": "dept_construction",
+      "departmentName": "Construction",
+      "employmentType": "full_time",
+      "location": "Whitefield, Bengaluru",
+      "vacancies": 3,
+      "applicationDeadline": 1797359399999,
+      "publishedAt": 1792218600000,
+      "updatedAt": 1792218600000
+    },
+    "job_sales_manager": {
+      "id": "job_sales_manager",
+      "title": "Sales Manager – Villas",
+      "description": "<h2>About the role</h2><p>Own sales for our premium villa project and guide buyers from first visit to registration.</p><h3>What you will do</h3><ul><li><p>Conduct site visits and walkthroughs for walk-in and channel-partner leads</p></li><li><p>Negotiate and close bookings against monthly targets</p></li><li><p>Work with CRM on agreements and payment follow-ups</p></li></ul><h3>What we are looking for</h3><ul><li><p>4+ years selling residential real estate in Bengaluru</p></li><li><p>Strong spoken English and Kannada or Hindi</p></li><li><p>Comfortable with CRM tools</p></li></ul><p>We offer a competitive salary, performance incentives and medical cover for your family.</p>",
+      "departmentId": "dept_sales",
+      "departmentName": "Sales",
+      "employmentType": "full_time",
+      "location": "Sarjapur Road, Bengaluru",
+      "vacancies": 2,
+      "applicationDeadline": null,
+      "publishedAt": 1791959400000,
+      "updatedAt": 1791959400000
+    },
+    "job_presales": {
+      "id": "job_presales",
+      "title": "Presales Executive",
+      "description": "<h2>About the role</h2><p>Be the first voice our prospective buyers hear: qualify leads and book site visits for the sales team.</p><h3>What you will do</h3><ul><li><p>Call and follow up on leads from digital campaigns and portals</p></li><li><p>Qualify budget, location and timelines</p></li><li><p>Schedule and confirm site visits</p></li></ul><h3>What we are looking for</h3><ul><li><p>1–3 years in presales or inside sales</p></li><li><p>Clear, friendly phone manner</p></li><li><p>Graduate in any discipline</p></li></ul><p>We offer a competitive salary, performance incentives and medical cover for your family.</p>",
+      "departmentId": "dept_presales",
+      "departmentName": "Presales",
+      "employmentType": "full_time",
+      "location": "Bengaluru",
+      "vacancies": 4,
+      "applicationDeadline": 1796063399999,
+      "publishedAt": 1791700200000,
+      "updatedAt": 1791700200000
+    },
+    "job_landscape": {
+      "id": "job_landscape",
+      "title": "Landscape Architect",
+      "description": "<h2>About the role</h2><p>Design green spaces that keep the native trees at the heart of each community.</p><h3>What you will do</h3><ul><li><p>Prepare landscape concepts and working drawings</p></li><li><p>Select native plant species with the horticulture team</p></li><li><p>Coordinate with civil teams during execution</p></li></ul><h3>What we are looking for</h3><ul><li><p>B.Arch / M.Arch with landscape specialisation</p></li><li><p>Portfolio of residential or township projects</p></li></ul><p>We offer a competitive salary, performance incentives and medical cover for your family.</p>",
+      "departmentId": "dept_architecture",
+      "departmentName": "Architecture",
+      "employmentType": "contract",
+      "location": "Devanahalli",
+      "vacancies": 1,
+      "applicationDeadline": null,
+      "publishedAt": 1791354600000,
+      "updatedAt": 1791354600000
+    },
+    "job_perf_intern": {
+      "id": "job_perf_intern",
+      "title": "Performance Marketing Intern",
+      "description": "<h2>About the role</h2><p>Learn performance marketing on live real estate campaigns across Google and Meta.</p><h3>What you will do</h3><ul><li><p>Help set up and monitor lead-generation campaigns</p></li><li><p>Prepare weekly reports on cost per lead</p></li><li><p>Test ad creatives with the design team</p></li></ul><h3>What we are looking for</h3><ul><li><p>Final-year student or recent graduate</p></li><li><p>Interest in digital marketing and analytics</p></li></ul><p>We offer a competitive salary, performance incentives and medical cover for your family.</p>",
+      "departmentId": "dept_digital",
+      "departmentName": "Digital Marketing",
+      "employmentType": "internship",
+      "location": "Bengaluru (Hybrid)",
+      "vacancies": 2,
+      "applicationDeadline": 1794335399999,
+      "publishedAt": 1792305000000,
+      "updatedAt": 1792305000000
+    }
+  },
+  "applications": {
+    "app_sample_01": {
+      "jobId": "job_site_engineer",
+      "jobTitleSnapshot": "Senior Site Engineer",
+      "departmentIdSnapshot": "dept_construction",
+      "candidateName": "Ananya Rao",
+      "phone": "9845012345",
+      "email": "ananya.rao@example.com",
+      "message": "I have several years of relevant experience in Bengaluru real estate and I'm keen to join Atmos Lifestyle as Senior Site Engineer. I'm available to join within 30 days.",
+      "resumePath": "atmos-careers/resumes/job_site_engineer/sample-1.pdf",
+      "resumeUrl": "https://res.cloudinary.com/your-cloud/raw/authenticated/atmos-careers/resumes/job_site_engineer/sample-1.pdf",
+      "resumeFileName": "Ananya_Resume.pdf",
+      "resumeContentType": "application/pdf",
+      "resumeSize": 180000,
+      "resumeFormat": "pdf",
+      "status": "new",
+      "appliedAt": 1792374120000,
+      "updatedAt": 1792374120000,
+      "recruiterNotes": "",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "consentAt": 1792374120000,
+      "searchText": "ananya rao ananya.rao@example.com 9845012345 senior site engineer"
+    },
+    "app_sample_02": {
+      "jobId": "job_sales_manager",
+      "jobTitleSnapshot": "Sales Manager – Villas",
+      "departmentIdSnapshot": "dept_sales",
+      "candidateName": "Karthik Menon",
+      "phone": "9900123456",
+      "email": "karthik.menon@example.com",
+      "message": "I have several years of relevant experience in Bengaluru real estate and I'm keen to join Atmos Lifestyle as Sales Manager – Villas. I'm available to join within 30 days.",
+      "resumePath": "atmos-careers/resumes/job_sales_manager/sample-2.pdf",
+      "resumeUrl": "https://res.cloudinary.com/your-cloud/raw/authenticated/atmos-careers/resumes/job_sales_manager/sample-2.pdf",
+      "resumeFileName": "Karthik_Resume.pdf",
+      "resumeContentType": "application/pdf",
+      "resumeSize": 187300,
+      "resumeFormat": "pdf",
+      "status": "new",
+      "appliedAt": 1792348200000,
+      "updatedAt": 1792348200000,
+      "recruiterNotes": "",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "consentAt": 1792348200000,
+      "searchText": "karthik menon karthik.menon@example.com 9900123456 sales manager – villas"
+    },
+    "app_sample_03": {
+      "jobId": "job_presales",
+      "jobTitleSnapshot": "Presales Executive",
+      "departmentIdSnapshot": "dept_presales",
+      "candidateName": "Priya Shetty",
+      "phone": "9886234567",
+      "email": "priya.shetty@example.com",
+      "message": "I have several years of relevant experience in Bengaluru real estate and I'm keen to join Atmos Lifestyle as Presales Executive. I'm available to join within 30 days.",
+      "resumePath": "atmos-careers/resumes/job_presales/sample-3.pdf",
+      "resumeUrl": "https://res.cloudinary.com/your-cloud/raw/authenticated/atmos-careers/resumes/job_presales/sample-3.pdf",
+      "resumeFileName": "Priya_Resume.pdf",
+      "resumeContentType": "application/pdf",
+      "resumeSize": 194600,
+      "resumeFormat": "pdf",
+      "status": "under_review",
+      "appliedAt": 1792305000000,
+      "updatedAt": 1792305000000,
+      "recruiterNotes": "",
+      "reviewedBy": "admin_default",
+      "reviewedAt": 1792326600000,
+      "consentAt": 1792305000000,
+      "searchText": "priya shetty priya.shetty@example.com 9886234567 presales executive"
+    },
+    "app_sample_04": {
+      "jobId": "job_sales_manager",
+      "jobTitleSnapshot": "Sales Manager – Villas",
+      "departmentIdSnapshot": "dept_sales",
+      "candidateName": "Rahul Gowda",
+      "phone": "9741345678",
+      "email": "rahul.gowda@example.com",
+      "message": "I have several years of relevant experience in Bengaluru real estate and I'm keen to join Atmos Lifestyle as Sales Manager – Villas. I'm available to join within 30 days.",
+      "resumePath": "atmos-careers/resumes/job_sales_manager/sample-4.pdf",
+      "resumeUrl": "https://res.cloudinary.com/your-cloud/raw/authenticated/atmos-careers/resumes/job_sales_manager/sample-4.pdf",
+      "resumeFileName": "Rahul_Resume.pdf",
+      "resumeContentType": "application/pdf",
+      "resumeSize": 201900,
+      "resumeFormat": "pdf",
+      "status": "shortlisted",
+      "appliedAt": 1792261800000,
+      "updatedAt": 1792261800000,
+      "recruiterNotes": "Strong closer. Expected CTC 14 LPA, 30-day notice.",
+      "reviewedBy": "admin_default",
+      "reviewedAt": 1792283400000,
+      "consentAt": 1792261800000,
+      "searchText": "rahul gowda rahul.gowda@example.com 9741345678 sales manager – villas"
+    },
+    "app_sample_05": {
+      "jobId": "job_site_engineer",
+      "jobTitleSnapshot": "Senior Site Engineer",
+      "departmentIdSnapshot": "dept_construction",
+      "candidateName": "Sneha Iyer",
+      "phone": "9632456789",
+      "email": "sneha.iyer@example.com",
+      "message": "I have several years of relevant experience in Bengaluru real estate and I'm keen to join Atmos Lifestyle as Senior Site Engineer. I'm available to join within 30 days.",
+      "resumePath": "atmos-careers/resumes/job_site_engineer/sample-5.pdf",
+      "resumeUrl": "https://res.cloudinary.com/your-cloud/raw/authenticated/atmos-careers/resumes/job_site_engineer/sample-5.pdf",
+      "resumeFileName": "Sneha_Resume.pdf",
+      "resumeContentType": "application/pdf",
+      "resumeSize": 209200,
+      "resumeFormat": "pdf",
+      "status": "interview_scheduled",
+      "appliedAt": 1792218600000,
+      "updatedAt": 1792218600000,
+      "recruiterNotes": "",
+      "reviewedBy": "admin_default",
+      "reviewedAt": 1792240200000,
+      "consentAt": 1792218600000,
+      "searchText": "sneha iyer sneha.iyer@example.com 9632456789 senior site engineer"
+    },
+    "app_sample_06": {
+      "jobId": "job_perf_intern",
+      "jobTitleSnapshot": "Performance Marketing Intern",
+      "departmentIdSnapshot": "dept_digital",
+      "candidateName": "Vikram Reddy",
+      "phone": "9538567890",
+      "email": "vikram.reddy@example.com",
+      "message": "I have several years of relevant experience in Bengaluru real estate and I'm keen to join Atmos Lifestyle as Performance Marketing Intern. I'm available to join within 30 days.",
+      "resumePath": "atmos-careers/resumes/job_perf_intern/sample-6.pdf",
+      "resumeUrl": "https://res.cloudinary.com/your-cloud/raw/authenticated/atmos-careers/resumes/job_perf_intern/sample-6.pdf",
+      "resumeFileName": "Vikram_Resume.pdf",
+      "resumeContentType": "application/pdf",
+      "resumeSize": 216500,
+      "resumeFormat": "pdf",
+      "status": "new",
+      "appliedAt": 1792322280000,
+      "updatedAt": 1792322280000,
+      "recruiterNotes": "",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "consentAt": 1792322280000,
+      "searchText": "vikram reddy vikram.reddy@example.com 9538567890 performance marketing intern"
+    },
+    "app_sample_07": {
+      "jobId": "job_accounts",
+      "jobTitleSnapshot": "Accounts Executive",
+      "departmentIdSnapshot": "dept_finance",
+      "candidateName": "Divya Nair",
+      "phone": "9480678901",
+      "email": "divya.nair@example.com",
+      "message": "I have several years of relevant experience in Bengaluru real estate and I'm keen to join Atmos Lifestyle as Accounts Executive. I'm available to join within 30 days.",
+      "resumePath": "atmos-careers/resumes/job_accounts/sample-7.pdf",
+      "resumeUrl": "https://res.cloudinary.com/your-cloud/raw/authenticated/atmos-careers/resumes/job_accounts/sample-7.pdf",
+      "resumeFileName": "Divya_Resume.pdf",
+      "resumeContentType": "application/pdf",
+      "resumeSize": 223800,
+      "resumeFormat": "pdf",
+      "status": "rejected",
+      "appliedAt": 1791873000000,
+      "updatedAt": 1791873000000,
+      "recruiterNotes": "",
+      "reviewedBy": "admin_default",
+      "reviewedAt": 1791894600000,
+      "consentAt": 1791873000000,
+      "searchText": "divya nair divya.nair@example.com 9480678901 accounts executive"
+    },
+    "app_sample_08": {
+      "jobId": "job_landscape",
+      "jobTitleSnapshot": "Landscape Architect",
+      "departmentIdSnapshot": "dept_architecture",
+      "candidateName": "Arjun Kulkarni",
+      "phone": "9019789012",
+      "email": "arjun.kulkarni@example.com",
+      "message": "I have several years of relevant experience in Bengaluru real estate and I'm keen to join Atmos Lifestyle as Landscape Architect. I'm available to join within 30 days.",
+      "resumePath": "atmos-careers/resumes/job_landscape/sample-8.pdf",
+      "resumeUrl": "https://res.cloudinary.com/your-cloud/raw/authenticated/atmos-careers/resumes/job_landscape/sample-8.pdf",
+      "resumeFileName": "Arjun_Resume.pdf",
+      "resumeContentType": "application/pdf",
+      "resumeSize": 231100,
+      "resumeFormat": "pdf",
+      "status": "selected",
+      "appliedAt": 1791613800000,
+      "updatedAt": 1791613800000,
+      "recruiterNotes": "",
+      "reviewedBy": "admin_default",
+      "reviewedAt": 1791635400000,
+      "consentAt": 1791613800000,
+      "searchText": "arjun kulkarni arjun.kulkarni@example.com 9019789012 landscape architect"
+    },
+    "app_sample_09": {
+      "jobId": "job_presales",
+      "jobTitleSnapshot": "Presales Executive",
+      "departmentIdSnapshot": "dept_presales",
+      "candidateName": "Meera Pillai",
+      "phone": "8971890123",
+      "email": "meera.pillai@example.com",
+      "message": "I have several years of relevant experience in Bengaluru real estate and I'm keen to join Atmos Lifestyle as Presales Executive. I'm available to join within 30 days.",
+      "resumePath": "atmos-careers/resumes/job_presales/sample-9.pdf",
+      "resumeUrl": "https://res.cloudinary.com/your-cloud/raw/authenticated/atmos-careers/resumes/job_presales/sample-9.pdf",
+      "resumeFileName": "Meera_Resume.pdf",
+      "resumeContentType": "application/pdf",
+      "resumeSize": 238400,
+      "resumeFormat": "pdf",
+      "status": "under_review",
+      "appliedAt": 1792132200000,
+      "updatedAt": 1792132200000,
+      "recruiterNotes": "",
+      "reviewedBy": "admin_default",
+      "reviewedAt": 1792153800000,
+      "consentAt": 1792132200000,
+      "searchText": "meera pillai meera.pillai@example.com 8971890123 presales executive"
+    },
+    "app_sample_10": {
+      "jobId": "job_sales_manager",
+      "jobTitleSnapshot": "Sales Manager – Villas",
+      "departmentIdSnapshot": "dept_sales",
+      "candidateName": "Rohan Das",
+      "phone": "8867901234",
+      "email": "rohan.das@example.com",
+      "message": "I have several years of relevant experience in Bengaluru real estate and I'm keen to join Atmos Lifestyle as Sales Manager – Villas. I'm available to join within 30 days.",
+      "resumePath": "atmos-careers/resumes/job_sales_manager/sample-10.pdf",
+      "resumeUrl": "https://res.cloudinary.com/your-cloud/raw/authenticated/atmos-careers/resumes/job_sales_manager/sample-10.pdf",
+      "resumeFileName": "Rohan_Resume.pdf",
+      "resumeContentType": "application/pdf",
+      "resumeSize": 245700,
+      "resumeFormat": "pdf",
+      "status": "new",
+      "appliedAt": 1792382760000,
+      "updatedAt": 1792382760000,
+      "recruiterNotes": "",
+      "reviewedBy": null,
+      "reviewedAt": null,
+      "consentAt": 1792382760000,
+      "searchText": "rohan das rohan.das@example.com 8867901234 sales manager – villas"
+    }
+  },
+  "applicationStatusHistory": {
+    "app_sample_01": {
+      "h1": {
+        "previousStatus": null,
+        "newStatus": "new",
+        "changedAt": 1792374120000,
+        "changedBy": "candidate",
+        "note": "Application submitted"
+      }
+    },
+    "app_sample_02": {
+      "h1": {
+        "previousStatus": null,
+        "newStatus": "new",
+        "changedAt": 1792348200000,
+        "changedBy": "candidate",
+        "note": "Application submitted"
+      }
+    },
+    "app_sample_03": {
+      "h1": {
+        "previousStatus": null,
+        "newStatus": "new",
+        "changedAt": 1792305000000,
+        "changedBy": "candidate",
+        "note": "Application submitted"
+      },
+      "h2": {
+        "previousStatus": "new",
+        "newStatus": "under_review",
+        "changedAt": 1792326600000,
+        "changedBy": "admin_default",
+        "changedByName": "Atmos HR Admin",
+        "note": "Sample status change"
+      }
+    },
+    "app_sample_04": {
+      "h1": {
+        "previousStatus": null,
+        "newStatus": "new",
+        "changedAt": 1792261800000,
+        "changedBy": "candidate",
+        "note": "Application submitted"
+      },
+      "h2": {
+        "previousStatus": "new",
+        "newStatus": "shortlisted",
+        "changedAt": 1792283400000,
+        "changedBy": "admin_default",
+        "changedByName": "Atmos HR Admin",
+        "note": "Sample status change"
+      }
+    },
+    "app_sample_05": {
+      "h1": {
+        "previousStatus": null,
+        "newStatus": "new",
+        "changedAt": 1792218600000,
+        "changedBy": "candidate",
+        "note": "Application submitted"
+      },
+      "h2": {
+        "previousStatus": "new",
+        "newStatus": "interview_scheduled",
+        "changedAt": 1792240200000,
+        "changedBy": "admin_default",
+        "changedByName": "Atmos HR Admin",
+        "note": "Sample status change"
+      }
+    },
+    "app_sample_06": {
+      "h1": {
+        "previousStatus": null,
+        "newStatus": "new",
+        "changedAt": 1792322280000,
+        "changedBy": "candidate",
+        "note": "Application submitted"
+      }
+    },
+    "app_sample_07": {
+      "h1": {
+        "previousStatus": null,
+        "newStatus": "new",
+        "changedAt": 1791873000000,
+        "changedBy": "candidate",
+        "note": "Application submitted"
+      },
+      "h2": {
+        "previousStatus": "new",
+        "newStatus": "rejected",
+        "changedAt": 1791894600000,
+        "changedBy": "admin_default",
+        "changedByName": "Atmos HR Admin",
+        "note": "Sample status change"
+      }
+    },
+    "app_sample_08": {
+      "h1": {
+        "previousStatus": null,
+        "newStatus": "new",
+        "changedAt": 1791613800000,
+        "changedBy": "candidate",
+        "note": "Application submitted"
+      },
+      "h2": {
+        "previousStatus": "new",
+        "newStatus": "selected",
+        "changedAt": 1791635400000,
+        "changedBy": "admin_default",
+        "changedByName": "Atmos HR Admin",
+        "note": "Sample status change"
+      }
+    },
+    "app_sample_09": {
+      "h1": {
+        "previousStatus": null,
+        "newStatus": "new",
+        "changedAt": 1792132200000,
+        "changedBy": "candidate",
+        "note": "Application submitted"
+      },
+      "h2": {
+        "previousStatus": "new",
+        "newStatus": "under_review",
+        "changedAt": 1792153800000,
+        "changedBy": "admin_default",
+        "changedByName": "Atmos HR Admin",
+        "note": "Sample status change"
+      }
+    },
+    "app_sample_10": {
+      "h1": {
+        "previousStatus": null,
+        "newStatus": "new",
+        "changedAt": 1792382760000,
+        "changedBy": "candidate",
+        "note": "Application submitted"
+      }
+    }
+  },
+  "applicationKeys": {
+    "job_site_engineer": {
+      "c0e10586dc8c245eb1feada833ae27b512c9cecc": "app_sample_01",
+      "b7bc0131c204dbdfb3ebaecdaa6ed2480776c4d2": "app_sample_05"
+    },
+    "job_sales_manager": {
+      "d70147f37ba7cef1c99b23609244d64d91368e75": "app_sample_02",
+      "1664bac707c2b2fe6931561ff4400916f5b3e2f0": "app_sample_04",
+      "2f20f579570704b2425b3fab7b3eb0a6dc203e09": "app_sample_10"
+    },
+    "job_presales": {
+      "cac8fd35eae18b830b4918fc5749adf05e48ef00": "app_sample_03",
+      "4c45524129e1468c781b33cd629ad3fe14117d06": "app_sample_09"
+    },
+    "job_perf_intern": {
+      "7bcd65d9dad48fd23015ab1b2f2baaeaf80b6150": "app_sample_06"
+    },
+    "job_accounts": {
+      "10c13784b0557c19617b5dbbe4a6b533c59a0d11": "app_sample_07"
+    },
+    "job_landscape": {
+      "884d70889a21510bddf7befb8fa3111fc383c41f": "app_sample_08"
+    }
+  },
+  "stats": {
+    "applications": {
+      "total": 10,
+      "byStatus": {
+        "new": 4,
+        "under_review": 2,
+        "shortlisted": 1,
+        "interview_scheduled": 1,
+        "selected": 1,
+        "rejected": 1,
+        "withdrawn": 0
+      },
+      "byJob": {
+        "job_site_engineer": 2,
+        "job_sales_manager": 3,
+        "job_presales": 2,
+        "job_perf_intern": 1,
+        "job_accounts": 1,
+        "job_landscape": 1
+      }
+    }
+  },
+  "settings": {
+    "notifications": {
+      "sendAcknowledgement": false,
+      "sendStatusUpdates": false
+    }
+  },
+  "adminUsers": {
+    "admin_default": {
+      "username": "admin",
+      "usernameLower": "admin",
+      "displayName": "Atmos HR Admin",
+      "email": "hr@example.com",
+      "role": "super_admin",
+      "isActive": true,
+      "passwordHash": "$2b$12$4RNzS7JU.U4R90Seh/L0AOS0.jDxplHKh8MUAX/MOOPeDp/ievHDG",
+      "sessionVersion": 1,
+      "createdAt": 1792391400000,
+      "lastLoginAt": null
+    }
+  }
+}

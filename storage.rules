@@ -1,0 +1,10 @@
+rules_version = '2';
+// Resumes are stored in Cloudinary, not Firebase Storage.
+// Lock Firebase Storage completely so nothing can be read or written from the client.
+service firebase.storage {
+  match /b/{bucket}/o {
+    match /{allPaths=**} {
+      allow read, write: if false;
+    }
+  }
+}
