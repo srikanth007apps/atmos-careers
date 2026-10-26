@@ -9,7 +9,7 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   poweredByHeader: false,
-  serverExternalPackages: ["firebase-admin", "cloudinary", "nodemailer", "sanitize-html"],
+  serverExternalPackages: ["firebase-admin", "cloudinary", "nodemailer"],
   images: { remotePatterns: [{ protocol: "https", hostname: "res.cloudinary.com" }] },
   async headers() {
     return [{ source: "/(.*)", headers: securityHeaders }];
